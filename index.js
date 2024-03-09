@@ -33,7 +33,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Probando status"];
+const statusMessages = ["Exotic Designs","Bot Exclusivo"];
 
 
 let currentIndex = 0;
